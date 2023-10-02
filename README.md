@@ -1,5 +1,5 @@
 # Bruna Baria
-Olá, Eu sou a Bruna Baria. Graduada em Administração e pós-graduanda em Coding & Tech Journey na FIAP, estou em uma jornada para me tornar uma Desenvolvedora. Também estou participando do BootCamp do Santander para Java Backend pela DIO. 
+Olá, Eu sou a Bruna Baria. Graduada em Administração e pós-graduanda em Coding & Tech Journey na FIAP, estou em uma jornada para me tornar uma Desenvolvedora.
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://https://github.com/BrunaBaria)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]((https://www.linkedin.com/in/bruna-baria/))
