@@ -22,3 +22,4 @@ Minha trajetória me ensinou a ser analítica, adaptável e colaborativa, qualid
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunabaria&theme=transparent&bg_color=000&border_color=30A3dc&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&hide_title=true&hide=stars)
 
 
+![PL-900](https://learn.microsoft.com/api/credentials/share/pt-br/BrunaBaria/96654554DD4DC5F4?sharingId=3C12B5436FE80622)
