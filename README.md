@@ -13,7 +13,7 @@ Olá, Eu sou a Bruna Baria. Graduada em Administração e pós-graduanda em Dev 
 [![HTML](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor)](https://docs.github.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor)](https://docs.github.com/)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor)](https://docs.github.com/)
-[![C#](https://img.shields.io/badge/Csahrpe-000?style=for-the-badge&logo=Csharpe&logoColor)](https://docs.github.com/)
+[![C#](https://img.shields.io/badge/C#-000?style=for-the-badge&logo=C#&logoColor)](https://docs.github.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor)](https://docs.github.com/)
 
 ## GitHub Stats
