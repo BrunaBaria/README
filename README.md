@@ -12,7 +12,7 @@ Minha trajetória me ensinou a ser analítica, adaptável e colaborativa, qualid
 
 ## Habilidades
 
-[![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor)]
+[JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor)
 [![HTML](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor)]
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor)]
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor)]
