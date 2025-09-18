@@ -12,15 +12,11 @@ Minha trajetória me ensinou a ser analítica, adaptável e colaborativa, qualid
 
 ## Habilidades
 
-[![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor)](https://docs.github.com/)
-[![HTML](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor)](https://docs.github.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor)](https://docs.github.com/)
-[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor)](https://docs.github.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://docs.github.com/)
-[![AZ](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=icloud&logoColor=white)](https://docs.github.com/)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunabaria&theme=transparent&bg_color=000&border_color=30A3dc&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&hide_title=true&hide=stars)
-
+[![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor)]
+[![HTML](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor)]
+[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor)]
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor)]
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)]
+[![AZ](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=icloud&logoColor=white)]
 
 
