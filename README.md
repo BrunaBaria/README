@@ -10,6 +10,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud%20Associate%20from-Brazil-296d23?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
+ <div align="center">
+  <img src="/badges.png" alt="Banner" width="90%"/>
+  </a>
+</div>
 
 <p align="center">
   <br/>
