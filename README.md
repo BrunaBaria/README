@@ -40,8 +40,12 @@
 </p>
 
 <p align="center">
-  <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaBaria&show_icons=true&theme=transparent&locale=en" width="350"></a>
+## ⭐️ &nbsp;GitHub Stats
+
+<a href="https://github.com/Savarezi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savarezi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savarezi&layout=compact&langs_count=6&theme=merko"/>
+</a>
 </p>
 
 <details>
