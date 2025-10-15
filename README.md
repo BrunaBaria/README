@@ -59,7 +59,7 @@
       <strong><span>Secret number game </span></strong><br>
       <strong style="font-size: 0.9em;">📆 October 2025 </strong></br>
      This project demonstrates skills with JavaScript, programming logic, and project publishing.
-    <a href="[https://github.com/BrunaBaria/Node-RED](https://github.com/BrunaBaria/devops-alura/tree/main/02-sprint" target="_blank">🔗 View the repository on GitHub</a>
+    <a href="https://github.com/BrunaBaria/devops-alura/tree/main/02-sprint" target="_blank">🔗 View the repository on GitHub</a>
     </li>
     <li>
       <strong><span>N8N - Introduction</span></strong><br>
