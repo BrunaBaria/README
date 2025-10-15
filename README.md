@@ -56,6 +56,12 @@
 <h2>Projects</h2>
   <ul>
     <li>
+      <strong><span>Secret number game </span></strong><br>
+      <strong style="font-size: 0.9em;">📆 October 2023 </strong></br>
+     This project demonstrates skills with JavaScript, programming logic, and project publishing.
+    <a href="[https://github.com/BrunaBaria/Node-RED](https://github.com/BrunaBaria/devops-alura/tree/main/02-sprint)" target="_blank">🔗 View the repository on GitHub</a>
+    </li>
+    <li>
       <strong><span>N8N - Introduction</span></strong><br>
       <strong style="font-size: 0.9em;">📆 September 2025 </strong></br>
       In this project, I tested n8n technology through two practical examples: a simple chatbot and an API consumption flow. The goal was to explore how n8n can simplify process automation and service integration in an accessible and efficient way.
@@ -67,12 +73,7 @@
       In this project, I developed a portfolio page using HTML, CSS, and the Bootstrap framework. The goal was to create a responsive and visually appealing interface to showcase professional information in a clear and organized way.
     <a href="https://github.com/BrunaBaria/portifolio-padrao-aula" target="_blank">🔗 View the repository on GitHub</a>
     </li>
-        <li>
-      <strong><span>Node-Red - Consulting CNPJ</span></strong><br>
-      <strong style="font-size: 0.9em;">📆 September 2023 </strong></br>
-      In this project, I used Node-RED to create a flow that authenticates with a CNPJ lookup API and returns whether the provided CNPJ is valid or not. The goal was to test integration with external APIs and demonstrate how Node-RED can be used to build simple and effective automations.
-    <a href="https://github.com/BrunaBaria/Node-RED" target="_blank">🔗 View the repository on GitHub</a>
-    </li>
+
   </ul>
   
 
